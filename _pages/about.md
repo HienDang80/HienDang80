@@ -1,8 +1,9 @@
 ---
 layout: about
-title: about
+title: About  
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
+# <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -14,16 +15,18 @@ profile:
   #   <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! My name is Hien, I am currently a research resident in AI Residency program at FSoft AI Lab (https://ai.fpt-software.com/ai-residency/). Before that, I worked as an Actuarial Analyst at Sun Life Vietnam (https://www.sunlife.com.vn/vn/) for 2.5 years. I graduated from the Department of Mathematics and Computer Science, Ho Chi Minh University of Science, Vietnam National University. 
+Welcome! My full name is Hien Hoang Dang and I am incoming PhD student at University of Texas at Austin. Before that, I was a research resident at FPT Software AI Center for two years. I graduated with honor from the Department of Mathematics and Computer Science, Ho Chi Minh University of Science, Vietnam National University. 
 
-**Research Interests**: I am interested in understanding phenomenons observed in deep learning models such as neural collapse in deep neural networks or posterior collapse in variational autoencoders.  
+Email: danghoanghien1123@gmail.com
 
-<span style="color:blue">some "*" and "**" denote equal contribution. text</span>
+**Research Interests**: My current research focuses on understanding "collapse" phenomena observed in deep learning architectures such as neural collapse in deep overparameterized neural networks or posterior collapse in variational autoencoders.  
+
+<span style="color:blue">"*" and "**" denote equal contribution. text</span>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
