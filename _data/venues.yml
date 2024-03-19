@@ -4,3 +4,12 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"ICML":
+  color: "337AFF"
+
+"ICLR":
+  color: "7433FF"
+
+"Arxiv":
+  color: "D4FF33"
