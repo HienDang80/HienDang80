@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About  
+title: Hien Dang
 permalink: /
 subtitle: 
 # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
@@ -15,18 +15,18 @@ profile:
   #   <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! My full name is Hien Hoang Dang and I am incoming PhD student at University of Texas at Austin. Before that, I was a research resident at FPT Software AI Center for two years. I graduated with honor from the Department of Mathematics and Computer Science, Ho Chi Minh University of Science, Vietnam National University. 
+Welcome! My full name is Hien Hoang Dang and I am an incoming PhD student at [Department of Statistics and Data Science, University of Texas at Austin](https://stat.utexas.edu/). Before that, I was a research resident at [FPT Software AI Center](https://fpt-aicenter.com/). I graduated with honor bachelor degree from the Department of Mathematics and Computer Science, Ho Chi Minh University of Science, Vietnam National University. 
 
 Email: danghoanghien1123@gmail.com
 
 **Research Interests**: My current research focuses on understanding "collapse" phenomena observed in deep learning architectures such as neural collapse in deep overparameterized neural networks or posterior collapse in variational autoencoders.  
 
-<span style="color:blue">"*" and "**" denote equal contribution. text</span>
+<span style="color:red">"*" and "**" denote equal contribution </span>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
