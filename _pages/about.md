@@ -24,8 +24,7 @@ Welcome! My full name is Hien Hoang Dang and I am an incoming PhD student at [De
 
 Email: danghoanghien1123@gmail.com
 
-<big> **Research Interests** <big>:
-***
+<big> **Research Interests** <big>
 
 My research interests are in the theory and mathematical foundation of Deep Learning. Specifically, my recent works focus on understanding "collapse" phenomena observed in deep learning architectures such as neural collapse in deep overparameterized neural networks or posterior collapse in variational autoencoders.  
 
