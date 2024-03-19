@@ -1,9 +1,8 @@
 ---
 layout: post
-date: Jan 2024
+date:
 inline: true
 related_posts: false
 ---
 
-Our paper "Beyond Vanilla Variational Autoencoders: Detecting Posterior Collapse in Conditional and Hierarchical Variational Autoencoders" has been accepted as a poster at ICLR 2024.
-
+<b> [Jan 2024] <b> Our paper "Beyond Vanilla Variational Autoencoders: Detecting Posterior Collapse in Conditional and Hierarchical Variational Autoencoders" has been accepted as a poster at ICLR 2024.
