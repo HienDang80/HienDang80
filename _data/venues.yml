@@ -6,10 +6,10 @@
   url: https://journals.aps.org/
 
 "ICML":
-  color: "337AFF"
+  color: "#337AFF"
 
 "ICLR":
-  color: "7433FF"
+  color: "#7433FF"
 
 "Arxiv":
-  color: "D4FF33"
+  color: "#D4FF33"
